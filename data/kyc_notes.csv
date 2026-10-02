@@ -1,0 +1,151 @@
+id,customer_id,note,verified,created_at
+1,350,verified ok,True,2026-09-05
+2,200,Customer refused to share ID. Limited to COD only.,False,2025-01-31
+3,28,ID verified via national ID upload. Address matches billing.,True,2025-06-06
+4,352,ID verified via national ID upload. Address matches billing.,True,2026-08-24
+5,360,verified ok,True,2025-07-01
+6,91,verified ok,True,2026-07-30
+7,87,ID verified via national ID upload. Address matches billing.,True,2026-08-03
+8,325,Phone verified by OTP. ID pending.,False,2026-07-25
+9,13,verified ok,True,2026-05-09
+10,208,Customer refused to share ID. Limited to COD only.,False,2025-12-03
+11,368,Customer refused to share ID. Limited to COD only.,False,2025-06-22
+12,318,Address mismatch between billing and shipping. Shipping city Madinah.,False,2026-06-07
+13,190,ID verified via national ID upload. Address matches billing.,True,2025-12-24
+14,471,High order value flagged. Verified email girindraganesh@example.net and phone 05445189520.,False,2026-08-14
+15,120,Customer refused to share ID. Limited to COD only.,False,2026-04-04
+16,162,Address mismatch between billing and shipping. Shipping city Madinah.,False,2026-06-03
+17,419,"Customer called support, name on card differs from account name (المهندس سهل آل علي). Asked for ID.",False,2026-06-22
+18,487,High order value flagged. Verified email ikshita90@example.net and phone +966523574883.,False,2026-05-04
+19,478,High order value flagged. Verified email rehaanmanda@example.org and phone 0138759271.,False,2026-01-06
+20,138,Address mismatch between billing and shipping. Shipping city Tumkur.,False,2026-07-29
+21,358,Address mismatch between billing and shipping. Shipping city Jeddah.,False,2026-06-25
+22,43,Multiple failed payments last week. Monitoring.,False,2026-08-29
+23,500,High order value flagged. Verified email isaactella@example.org and phone +966584429198.,False,2026-02-14
+24,495,ID verified via national ID upload. Address matches billing.,True,2026-05-24
+25,1,ID verified via national ID upload. Address matches billing.,True,2026-05-21
+26,458,verified ok,True,2026-09-13
+27,479,Customer refused to share ID. Limited to COD only.,False,2026-08-24
+28,342,Customer refused to share ID. Limited to COD only.,False,2026-05-25
+29,70,verified ok,True,2026-05-20
+30,94,"Customer called support, name on card differs from account name (Faras Munshi). Asked for ID.",False,2026-09-23
+31,225,Multiple failed payments last week. Monitoring.,False,2026-08-11
+32,462,Multiple failed payments last week. Monitoring.,False,2026-08-01
+33,161,ID verified via national ID upload. Address matches billing.,True,2026-09-19
+34,402,High order value flagged. Verified email giriksidhu@example.org and phone 04773329456.,False,2026-04-16
+35,407,"Customer called support, name on card differs from account name (الآنسة وفاء حجار). Asked for ID.",False,2026-07-25
+36,461,Multiple failed payments last week. Monitoring.,False,2025-12-26
+37,290,ID verified via national ID upload. Address matches billing.,True,2026-07-19
+38,183,Phone verified by OTP. ID pending.,False,2026-09-03
+39,447,Customer refused to share ID. Limited to COD only.,False,2026-05-28
+40,31,High order value flagged. Verified email rsathe@example.org and phone +966567503414.,False,2025-11-06
+41,6,verified ok,True,2026-06-06
+42,81,Multiple failed payments last week. Monitoring.,False,2025-02-11
+43,441,Address mismatch between billing and shipping. Shipping city Makkah.,False,2026-04-03
+44,214,"Customer called support, name on card differs from account name (هدى أبا الخيل). Asked for ID.",False,2026-07-07
+45,389,verified ok,True,2026-08-24
+46,416,"Customer called support, name on card differs from account name (الأستاذ عبد الواحد حنبولي). Asked for ID.",False,2026-06-02
+47,359,Address mismatch between billing and shipping. Shipping city Makkah.,False,2026-08-28
+48,26,Phone verified by OTP. ID pending.,False,2026-08-17
+49,41,Customer refused to share ID. Limited to COD only.,False,2026-09-26
+50,164,Address mismatch between billing and shipping. Shipping city Makkah.,False,2026-08-29
+51,57,"Customer called support, name on card differs from account name (Raksha Buch). Asked for ID.",False,2026-04-19
+52,173,ID verified via national ID upload. Address matches billing.,True,2026-08-26
+53,110,"Customer called support, name on card differs from account name (بلند آل سعود). Asked for ID.",False,2026-09-29
+54,442,"Customer called support, name on card differs from account name (Samaksh Nayak). Asked for ID.",False,2026-08-07
+55,369,High order value flagged. Verified email andrewpuri@example.net and phone +966571031132.,False,2025-11-10
+56,483,High order value flagged. Verified email vamakshi96@example.com and phone 4271147732.,False,2026-03-22
+57,178,Address mismatch between billing and shipping. Shipping city Jalna.,False,2025-07-12
+58,409,Multiple failed payments last week. Monitoring.,False,2026-04-02
+59,336,Phone verified by OTP. ID pending.,False,2025-04-08
+60,497,Phone verified by OTP. ID pending.,False,2026-09-28
+61,475,ID verified via national ID upload. Address matches billing.,True,2026-05-31
+62,302,ID verified via national ID upload. Address matches billing.,True,2026-03-21
+63,133,ID verified via national ID upload. Address matches billing.,True,2026-09-17
+64,226,verified ok,True,2026-07-31
+65,493,ID verified via national ID upload. Address matches billing.,True,2026-06-26
+66,317,Multiple failed payments last week. Monitoring.,False,2026-08-31
+67,174,High order value flagged. Verified email hredhaan10@example.com and phone 05412126788.,False,2025-03-08
+68,17,ID verified via national ID upload. Address matches billing.,True,2026-08-29
+69,470,verified ok,True,2026-08-11
+70,145,Address mismatch between billing and shipping. Shipping city Kottayam.,False,2026-05-21
+71,23,High order value flagged. Verified email nakul78@example.net and phone 09808412411.,False,2026-09-22
+72,428,ID verified via national ID upload. Address matches billing.,True,2026-01-26
+73,253,"Customer called support, name on card differs from account name (Andrew Agrawal). Asked for ID.",False,2026-04-16
+74,52,Phone verified by OTP. ID pending.,False,2026-08-13
+75,392,Phone verified by OTP. ID pending.,False,2026-01-01
+76,227,verified ok,True,2025-08-03
+77,361,verified ok,True,2026-05-19
+78,98,Customer refused to share ID. Limited to COD only.,False,2026-09-23
+79,67,High order value flagged. Verified email biswaswahab@example.net and phone +966557553014.,False,2026-07-27
+80,238,"Customer called support, name on card differs from account name (Harish Cherian). Asked for ID.",False,2026-08-20
+81,305,ID verified via national ID upload. Address matches billing.,True,2025-12-13
+82,282,Address mismatch between billing and shipping. Shipping city Riyadh.,False,2026-03-15
+83,453,Multiple failed payments last week. Monitoring.,False,2025-11-30
+84,182,Customer refused to share ID. Limited to COD only.,False,2026-09-01
+85,363,Multiple failed payments last week. Monitoring.,False,2026-03-29
+86,381,Customer refused to share ID. Limited to COD only.,False,2026-03-23
+87,303,Multiple failed payments last week. Monitoring.,False,2026-07-20
+88,346,"Customer called support, name on card differs from account name (نغم الحجار). Asked for ID.",False,2026-06-23
+89,188,Phone verified by OTP. ID pending.,False,2026-08-14
+90,330,"Customer called support, name on card differs from account name (Dayamai Karnik). Asked for ID.",False,2025-03-07
+91,15,verified ok,True,2026-01-24
+92,119,Address mismatch between billing and shipping. Shipping city Makkah.,False,2025-07-01
+93,473,"Customer called support, name on card differs from account name (Ishaan Sahni). Asked for ID.",False,2026-09-18
+94,385,verified ok,True,2026-07-08
+95,34,ID verified via national ID upload. Address matches billing.,True,2026-06-25
+96,25,High order value flagged. Verified email kalpit42@example.net and phone +966563843426.,False,2024-12-16
+97,5,High order value flagged. Verified email nicholas55@example.org and phone 4192832764.,False,2026-07-16
+98,202,verified ok,True,2026-07-27
+99,148,"Customer called support, name on card differs from account name (Tejas Kota). Asked for ID.",False,2026-05-05
+100,347,ID verified via national ID upload. Address matches billing.,True,2025-10-03
+101,319,"Customer called support, name on card differs from account name (Mitali Kapadia). Asked for ID.",False,2026-03-17
+102,111,Customer refused to share ID. Limited to COD only.,False,2026-08-16
+103,156,Multiple failed payments last week. Monitoring.,False,2025-10-21
+104,396,Multiple failed payments last week. Monitoring.,False,2026-05-26
+105,370,"Customer called support, name on card differs from account name (عالم آل صفوان). Asked for ID.",False,2026-09-16
+106,7,Phone verified by OTP. ID pending.,False,2026-09-11
+107,105,Address mismatch between billing and shipping. Shipping city Tirupati.,False,2025-12-11
+108,354,Customer refused to share ID. Limited to COD only.,False,2026-05-18
+109,297,Customer refused to share ID. Limited to COD only.,False,2026-08-25
+110,61,ID verified via national ID upload. Address matches billing.,True,2026-09-17
+111,2,"Customer called support, name on card differs from account name (Pahal Balay). Asked for ID.",False,2026-06-28
+112,143,ID verified via national ID upload. Address matches billing.,True,2026-08-22
+113,179,Customer refused to share ID. Limited to COD only.,False,2026-04-25
+114,65,Phone verified by OTP. ID pending.,False,2026-09-23
+115,433,Phone verified by OTP. ID pending.,False,2026-09-06
+116,448,Multiple failed payments last week. Monitoring.,False,2026-01-06
+117,220,"Customer called support, name on card differs from account name (Jairaj Arora). Asked for ID.",False,2026-05-18
+118,24,High order value flagged. Verified email yashasvi74@example.org and phone +966517507864.,False,2025-10-02
+119,260,ID verified via national ID upload. Address matches billing.,True,2026-06-17
+120,314,"Customer called support, name on card differs from account name (Zashil Savant). Asked for ID.",False,2026-08-01
+121,480,High order value flagged. Verified email sachi38@example.com and phone +966554087376.,False,2026-05-31
+122,146,verified ok,True,2026-06-25
+123,33,"Customer called support, name on card differs from account name (الدكتور ترف آل خضير). Asked for ID.",False,2025-10-23
+124,37,Phone verified by OTP. ID pending.,False,2025-08-03
+125,278,"Customer called support, name on card differs from account name (Chatura Arya). Asked for ID.",False,2026-08-23
+126,154,Phone verified by OTP. ID pending.,False,2025-08-14
+127,321,Multiple failed payments last week. Monitoring.,False,2026-07-24
+128,315,Phone verified by OTP. ID pending.,False,2026-06-25
+129,49,Customer refused to share ID. Limited to COD only.,False,2026-08-29
+130,114,ID verified via national ID upload. Address matches billing.,True,2024-12-05
+131,335,Multiple failed payments last week. Monitoring.,False,2024-12-04
+132,449,Phone verified by OTP. ID pending.,False,2026-07-03
+133,316,verified ok,True,2026-09-22
+134,490,Phone verified by OTP. ID pending.,False,2026-05-31
+135,90,Phone verified by OTP. ID pending.,False,2026-04-13
+136,280,verified ok,True,2026-08-09
+137,184,High order value flagged. Verified email vamakshi17@example.net and phone +966589442503.,False,2026-07-27
+138,444,Multiple failed payments last week. Monitoring.,False,2026-07-14
+139,125,Multiple failed payments last week. Monitoring.,False,2026-08-18
+140,192,Phone verified by OTP. ID pending.,False,2026-09-05
+141,440,Multiple failed payments last week. Monitoring.,False,2025-08-08
+142,291,Customer refused to share ID. Limited to COD only.,False,2025-02-28
+143,175,Customer refused to share ID. Limited to COD only.,False,2026-03-04
+144,76,"Customer called support, name on card differs from account name (Timothy Bhatnagar). Asked for ID.",False,2026-07-03
+145,383,Phone verified by OTP. ID pending.,False,2026-09-01
+146,186,verified ok,True,2026-04-25
+147,199,ID verified via national ID upload. Address matches billing.,True,2025-09-12
+148,377,ID verified via national ID upload. Address matches billing.,True,2026-09-06
+149,18,Multiple failed payments last week. Monitoring.,False,2025-01-26
+150,465,High order value flagged. Verified email ahujanimrat@example.net and phone 06287923264.,False,2026-07-10

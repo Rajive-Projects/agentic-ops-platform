@@ -1,0 +1,201 @@
+id,name,category,price_sar,is_returnable
+1,Nuvita Pre-Workout Powder,Pre-Workout,133.65,False
+2,PeakForm Gym Gloves,Fitness Gear,34.67,True
+3,IronLeaf Vitamin C,Vitamins,141.66,False
+4,Nuvita Probiotics,Wellness,125.3,False
+5,IronLeaf Vitamin D3,Vitamins,74.99,False
+6,Zest Whey Protein,Protein,306.58,False
+7,Zest Fitness Tracker,Electronics,253.2,True
+8,IronLeaf Pre-Workout Powder,Pre-Workout,211.41,False
+9,IronLeaf Omega-3,Wellness,185.88,False
+10,Zest Whey Protein,Protein,305.44,False
+11,Veda Labs Gym Gloves,Fitness Gear,37.79,True
+12,PeakForm Energy Gel Pack,Pre-Workout,109.5,False
+13,IronLeaf B-Complex,Vitamins,37.54,False
+14,Sahara Fit Omega-3,Wellness,144.79,False
+15,PeakForm Resistance Bands,Fitness Gear,66.6,True
+16,Sahara Fit Plant Protein,,144.95,False
+17,PeakForm Omega-3,Wellness,128.52,False
+18,Nuvita Pre-Workout Powder,Pre-Workout,152.47,False
+19,Nuvita Probiotics,Wellness,197.16,False
+20,Veda Labs Pre-Workout Powder,Pre-Workout,147.14,False
+21,Zest Whey Protein,Protein,277.89,False
+22,Nuvita Massage Gun,Electronics,250.06,True
+23,Sahara Fit Energy Gel Pack,,220.16,False
+24,Veda Labs B-Complex,Vitamins,147.7,False
+25,Veda Labs Collagen,Wellness,171.72,False
+26,Veda Labs Plant Protein,Protein,89.99,False
+27,Nuvita Multivitamin,Vitamins,136.29,False
+28,Zest Energy Gel Pack,Pre-Workout,248.26,False
+29,IronLeaf Yoga Mat,Fitness Gear,25.86,True
+30,PeakForm Massage Gun,Electronics,417.73,True
+31,Veda Labs Plant Protein,Protein,153.77,False
+32,IronLeaf Energy Gel Pack,Pre-Workout,208.93,False
+33,Zest Collagen,Wellness,124.43,False
+34,Zest Ashwagandha,Wellness,170.17,False
+35,IronLeaf Smart Scale,Electronics,472.96,True
+36,Sahara Fit Vitamin C,Vitamins,68.55,False
+37,Zest Protein Bar Box,Protein,159.82,False
+38,Sahara Fit Probiotics,Wellness,75.0,False
+39,Zest Probiotics,Wellness,56.35,False
+40,Sahara Fit Energy Gel Pack,,133.93,False
+41,Nuvita Protein Bar Box,Protein,252.13,False
+42,Sahara Fit Pre-Workout Powder,Pre-Workout,242.45,False
+43,Sahara Fit B-Complex,Vitamins,34.18,False
+44,PeakForm Protein Bar Box,Protein,178.91,False
+45,Sahara Fit Omega-3,Wellness,140.76,False
+46,IronLeaf Massage Gun,Electronics,429.01,True
+47,Sahara Fit Whey Protein,Protein,222.95,False
+48,Zest Ashwagandha,Wellness,87.44,False
+49,Nuvita Protein Bar Box,Protein,130.23,False
+50,IronLeaf Shaker Bottle,Fitness Gear,61.88,True
+51,Veda Labs Energy Gel Pack,Pre-Workout,124.33,False
+52,Zest Gym Gloves,Fitness Gear,52.03,True
+53,Nuvita B-Complex,Vitamins,50.72,False
+54,IronLeaf Smart Scale,Electronics,757.88,True
+55,Veda Labs Energy Gel Pack,Pre-Workout,203.53,False
+56,Sahara Fit Yoga Mat,Fitness Gear,162.61,True
+57,Veda Labs Multivitamin,Vitamins,125.24,False
+58,PeakForm Shaker Bottle,Fitness Gear,177.62,True
+59,PeakForm B-Complex,Vitamins,33.15,False
+60,Sahara Fit Yoga Mat,Fitness Gear,94.78,True
+61,PeakForm Shaker Bottle,Fitness Gear,30.52,True
+62,Veda Labs Probiotics,Wellness,128.85,False
+63,Sahara Fit Omega-3,Wellness,68.8,False
+64,Veda Labs Pre-Workout Powder,Pre-Workout,162.0,False
+65,Sahara Fit Massage Gun,,246.25,True
+66,Veda Labs Resistance Bands,Fitness Gear,142.85,True
+67,IronLeaf Vitamin D3,Vitamins,129.77,False
+68,PeakForm Yoga Mat,Fitness Gear,46.35,True
+69,Veda Labs Pre-Workout Powder,Pre-Workout,145.36,False
+70,Zest Shaker Bottle,Fitness Gear,60.1,True
+71,Sahara Fit Massage Gun,Electronics,243.88,True
+72,Sahara Fit Pre-Workout Powder,,170.41,False
+73,Sahara Fit Multivitamin,Vitamins,50.54,False
+74,Veda Labs Yoga Mat,Fitness Gear,154.8,True
+75,Nuvita Shaker Bottle,Fitness Gear,33.0,True
+76,Sahara Fit Massage Gun,Electronics,638.35,True
+77,IronLeaf Shaker Bottle,Fitness Gear,99.69,True
+78,Sahara Fit Massage Gun,Electronics,631.43,True
+79,IronLeaf Pre-Workout Powder,Pre-Workout,218.75,False
+80,IronLeaf Massage Gun,Electronics,490.16,True
+81,Nuvita Fitness Tracker,Electronics,479.7,True
+82,IronLeaf Collagen,Wellness,101.03,False
+83,Zest Vitamin C,Vitamins,118.1,False
+84,IronLeaf Pre-Workout Powder,Pre-Workout,211.71,False
+85,Sahara Fit Shaker Bottle,Fitness Gear,71.06,True
+86,Nuvita Ashwagandha,Wellness,117.44,False
+87,Nuvita Vitamin D3,Vitamins,64.83,False
+88,Sahara Fit Probiotics,Wellness,87.24,False
+89,Zest Vitamin C,Vitamins,52.78,False
+90,IronLeaf B-Complex,Vitamins,89.85,False
+91,IronLeaf Pre-Workout Powder,Pre-Workout,104.41,False
+92,Sahara Fit Probiotics,Wellness,195.0,False
+93,Sahara Fit Vitamin C,Vitamins,35.84,False
+94,IronLeaf Energy Gel Pack,Pre-Workout,135.72,False
+95,Nuvita Plant Protein,Protein,116.16,False
+96,Veda Labs Energy Gel Pack,Pre-Workout,212.22,False
+97,Nuvita Energy Gel Pack,Pre-Workout,98.19,False
+98,PeakForm Yoga Mat,Fitness Gear,108.52,True
+99,IronLeaf Protein Bar Box,Protein,201.6,False
+100,Zest Shaker Bottle,Fitness Gear,40.59,True
+101,IronLeaf Plant Protein,Protein,294.62,False
+102,Sahara Fit Energy Gel Pack,Pre-Workout,210.79,False
+103,Sahara Fit B-Complex,Vitamins,90.01,False
+104,Nuvita Whey Protein,Protein,272.67,False
+105,Sahara Fit Probiotics,Wellness,72.34,False
+106,PeakForm Yoga Mat,Fitness Gear,169.02,True
+107,PeakForm Energy Gel Pack,Pre-Workout,248.5,False
+108,Zest Massage Gun,Electronics,530.49,True
+109,Sahara Fit Gym Gloves,Fitness Gear,133.4,True
+110,IronLeaf Pre-Workout Powder,Pre-Workout,148.94,False
+111,Nuvita Wireless Earbuds,Electronics,587.78,True
+112,Veda Labs Smart Scale,Electronics,597.68,True
+113,Veda Labs Pre-Workout Powder,Pre-Workout,205.42,False
+114,IronLeaf Resistance Bands,Fitness Gear,103.88,True
+115,Sahara Fit Wireless Earbuds,Electronics,260.83,True
+116,PeakForm Smart Scale,Electronics,579.43,True
+117,Nuvita Fitness Tracker,Electronics,164.2,True
+118,IronLeaf Pre-Workout Powder,Pre-Workout,156.07,False
+119,IronLeaf B-Complex,Vitamins,134.74,False
+120,Veda Labs Smart Scale,Electronics,679.33,True
+121,PeakForm Yoga Mat,Fitness Gear,179.7,True
+122,Sahara Fit Probiotics,Wellness,97.06,False
+123,IronLeaf Vitamin C,Vitamins,95.55,False
+124,Veda Labs Massage Gun,Electronics,607.56,True
+125,PeakForm Vitamin C,Vitamins,96.97,False
+126,Zest Vitamin C,Vitamins,114.59,False
+127,Veda Labs Wireless Earbuds,Electronics,387.78,True
+128,Sahara Fit Energy Gel Pack,Pre-Workout,136.05,False
+129,Veda Labs Gym Gloves,Fitness Gear,163.32,True
+130,Zest Collagen,Wellness,93.57,False
+131,Veda Labs Pre-Workout Powder,Pre-Workout,145.42,False
+132,Veda Labs Ashwagandha,Wellness,162.1,False
+133,PeakForm Vitamin C,Vitamins,141.96,False
+134,Zest Fitness Tracker,Electronics,231.92,True
+135,Sahara Fit Fitness Tracker,Electronics,331.84,True
+136,Sahara Fit Fitness Tracker,Electronics,628.46,True
+137,Nuvita Plant Protein,Protein,169.18,False
+138,Nuvita Collagen,Wellness,50.78,False
+139,PeakForm Gym Gloves,Fitness Gear,124.46,True
+140,IronLeaf Collagen,Wellness,163.39,False
+141,Zest Energy Gel Pack,Pre-Workout,193.34,False
+142,Veda Labs Protein Bar Box,Protein,142.7,False
+143,Veda Labs Smart Scale,Electronics,834.92,True
+144,IronLeaf Multivitamin,Vitamins,142.07,False
+145,IronLeaf Plant Protein,Protein,130.3,False
+146,Zest Smart Scale,Electronics,156.95,True
+147,Sahara Fit Shaker Bottle,Fitness Gear,168.55,True
+148,Zest Energy Gel Pack,Pre-Workout,248.26,False
+149,Sahara Fit Gym Gloves,Fitness Gear,162.28,True
+150,Sahara Fit B-Complex,Vitamins,62.74,False
+151,Zest Whey Protein,Protein,277.4,False
+152,Zest Fitness Tracker,Electronics,160.56,True
+153,Zest Pre-Workout Powder,Pre-Workout,118.08,False
+154,IronLeaf Wireless Earbuds,Electronics,536.46,True
+155,IronLeaf Protein Bar Box,Protein,105.75,False
+156,IronLeaf Vitamin C,Vitamins,142.3,False
+157,Zest Plant Protein,Protein,143.59,False
+158,Zest Energy Gel Pack,Pre-Workout,183.19,False
+159,Nuvita Yoga Mat,Fitness Gear,124.59,True
+160,PeakForm Smart Scale,Electronics,650.84,True
+161,Zest Collagen,Wellness,110.81,False
+162,Veda Labs Yoga Mat,Fitness Gear,130.45,True
+163,Zest Massage Gun,Electronics,610.97,True
+164,PeakForm B-Complex,Vitamins,48.38,False
+165,Sahara Fit Massage Gun,Electronics,461.88,True
+166,IronLeaf Resistance Bands,Fitness Gear,141.9,True
+167,Sahara Fit Smart Scale,Electronics,544.13,True
+168,Veda Labs Yoga Mat,Fitness Gear,32.5,True
+169,Nuvita Shaker Bottle,Fitness Gear,152.6,True
+170,PeakForm Resistance Bands,Fitness Gear,46.33,True
+171,IronLeaf Shaker Bottle,Fitness Gear,128.85,True
+172,Sahara Fit Wireless Earbuds,Electronics,218.21,True
+173,IronLeaf Shaker Bottle,Fitness Gear,92.55,True
+174,IronLeaf Gym Gloves,Fitness Gear,110.23,True
+175,IronLeaf Yoga Mat,Fitness Gear,135.72,True
+176,Zest Omega-3,Wellness,161.87,False
+177,Nuvita Shaker Bottle,Fitness Gear,87.79,True
+178,Nuvita Smart Scale,Electronics,850.94,True
+179,IronLeaf Whey Protein,Protein,157.51,False
+180,PeakForm B-Complex,Vitamins,74.94,False
+181,IronLeaf Probiotics,Wellness,106.35,False
+182,Veda Labs Fitness Tracker,Electronics,640.15,True
+183,Nuvita Pre-Workout Powder,Pre-Workout,248.86,False
+184,Sahara Fit Collagen,Wellness,159.18,False
+185,Nuvita Vitamin D3,Vitamins,147.42,False
+186,Veda Labs Probiotics,Wellness,129.79,False
+187,PeakForm B-Complex,Vitamins,71.54,False
+188,PeakForm Pre-Workout Powder,Pre-Workout,95.15,False
+189,IronLeaf Smart Scale,Electronics,330.5,True
+190,Nuvita Protein Bar Box,Protein,89.07,False
+191,Veda Labs Shaker Bottle,Fitness Gear,59.16,True
+192,IronLeaf Plant Protein,Protein,143.27,False
+193,Nuvita Multivitamin,Vitamins,90.47,False
+194,PeakForm Energy Gel Pack,Pre-Workout,182.4,False
+195,Zest Fitness Tracker,Electronics,376.32,True
+196,Veda Labs Multivitamin,Vitamins,79.63,False
+197,Nuvita Pre-Workout Powder,Pre-Workout,190.16,False
+198,Sahara Fit Probiotics,Wellness,57.03,False
+199,Veda Labs Energy Gel Pack,Pre-Workout,215.73,False
+200,Veda Labs Energy Gel Pack,Pre-Workout,155.32,False

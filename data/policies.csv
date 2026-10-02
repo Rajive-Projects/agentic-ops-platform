@@ -1,0 +1,7 @@
+id,file,title,audience,version,effective_from
+1,returns.md,Returns Policy,support,1.0,2025-01-01
+2,refunds.md,Refunds Policy,"support, finance",1.0,2025-01-01
+3,shipping.md,Shipping Policy,support,1.0,2025-01-01
+4,warranty.md,Warranty Policy,support,1.0,2025-01-01
+5,chargebacks.md,Chargeback Handling Policy,"finance, legal",1.0,2025-01-01
+6,data_privacy.md,Customer Data Privacy Policy,"legal, all staff",1.0,2025-01-01

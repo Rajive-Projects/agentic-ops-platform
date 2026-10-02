@@ -1,0 +1,51 @@
+table,row_id,problem
+customers,246,missing email
+customers,274,missing email
+customers,392,missing email
+customers,414,missing email
+customers,359,missing email
+customers,310,missing email
+customers,440,missing email
+customers,111,missing email
+customers,35,missing email
+customers,281,missing email
+customers,193,missing email
+customers,312,missing email
+customers,483,missing email
+customers,80,missing email
+customers,261,missing email
+orders,2001,"duplicate of order 1861, charged twice, no items"
+orders,2002,"duplicate of order 1192, charged twice, no items"
+orders,2003,"duplicate of order 983, charged twice, no items"
+orders,2004,"duplicate of order 1842, charged twice, no items"
+orders,2005,"duplicate of order 354, charged twice, no items"
+orders,2006,"duplicate of order 1646, charged twice, no items"
+orders,2007,"duplicate of order 1043, charged twice, no items"
+orders,2008,"duplicate of order 566, charged twice, no items"
+orders,2009,"duplicate of order 680, charged twice, no items"
+orders,2010,"duplicate of order 1970, charged twice, no items"
+returns,80,missing reason
+returns,14,missing reason
+returns,25,missing reason
+returns,132,missing reason
+returns,36,missing reason
+returns,44,missing reason
+returns,123,missing reason
+returns,42,missing reason
+returns,1,missing reason
+returns,46,missing reason
+transactions,1195,charge does not match order total
+transactions,463,charge does not match order total
+transactions,1331,charge does not match order total
+transactions,639,charge does not match order total
+transactions,1161,charge does not match order total
+products,40,missing category
+products,16,missing category
+products,65,missing category
+products,23,missing category
+products,72,missing category
+orders,571,ordered_at in DD/MM/YYYY format
+orders,998,ordered_at in DD/MM/YYYY format
+orders,1342,ordered_at in DD/MM/YYYY format
+orders,433,ordered_at in DD/MM/YYYY format
+orders,1498,ordered_at in DD/MM/YYYY format

@@ -1,0 +1,43 @@
+id,category,country,payment_method,returnable,max_days,max_amount_without_approval_sar,refund_to,policy_file
+1,Protein,SA,card,False,0,500,original_method,refunds.md
+2,Protein,SA,mada,False,0,500,original_method,refunds.md
+3,Protein,SA,apple_pay,False,0,500,original_method,refunds.md
+4,Protein,SA,cod,False,0,500,bank_transfer,refunds.md
+5,Protein,IN,card,False,0,500,original_method,refunds.md
+6,Protein,IN,upi,False,0,500,original_method,refunds.md
+7,Protein,IN,cod,False,0,500,bank_transfer,refunds.md
+8,Vitamins,SA,card,False,0,500,original_method,refunds.md
+9,Vitamins,SA,mada,False,0,500,original_method,refunds.md
+10,Vitamins,SA,apple_pay,False,0,500,original_method,refunds.md
+11,Vitamins,SA,cod,False,0,500,bank_transfer,refunds.md
+12,Vitamins,IN,card,False,0,500,original_method,refunds.md
+13,Vitamins,IN,upi,False,0,500,original_method,refunds.md
+14,Vitamins,IN,cod,False,0,500,bank_transfer,refunds.md
+15,Pre-Workout,SA,card,False,0,500,original_method,refunds.md
+16,Pre-Workout,SA,mada,False,0,500,original_method,refunds.md
+17,Pre-Workout,SA,apple_pay,False,0,500,original_method,refunds.md
+18,Pre-Workout,SA,cod,False,0,500,bank_transfer,refunds.md
+19,Pre-Workout,IN,card,False,0,500,original_method,refunds.md
+20,Pre-Workout,IN,upi,False,0,500,original_method,refunds.md
+21,Pre-Workout,IN,cod,False,0,500,bank_transfer,refunds.md
+22,Wellness,SA,card,False,0,500,original_method,refunds.md
+23,Wellness,SA,mada,False,0,500,original_method,refunds.md
+24,Wellness,SA,apple_pay,False,0,500,original_method,refunds.md
+25,Wellness,SA,cod,False,0,500,bank_transfer,refunds.md
+26,Wellness,IN,card,False,0,500,original_method,refunds.md
+27,Wellness,IN,upi,False,0,500,original_method,refunds.md
+28,Wellness,IN,cod,False,0,500,bank_transfer,refunds.md
+29,Fitness Gear,SA,card,True,30,500,original_method,refunds.md
+30,Fitness Gear,SA,mada,True,30,500,original_method,refunds.md
+31,Fitness Gear,SA,apple_pay,True,30,500,original_method,refunds.md
+32,Fitness Gear,SA,cod,True,30,500,bank_transfer,refunds.md
+33,Fitness Gear,IN,card,True,30,500,original_method,refunds.md
+34,Fitness Gear,IN,upi,True,30,500,original_method,refunds.md
+35,Fitness Gear,IN,cod,True,30,500,bank_transfer,refunds.md
+36,Electronics,SA,card,True,30,500,original_method,refunds.md
+37,Electronics,SA,mada,True,30,500,original_method,refunds.md
+38,Electronics,SA,apple_pay,True,30,500,original_method,refunds.md
+39,Electronics,SA,cod,True,30,500,bank_transfer,refunds.md
+40,Electronics,IN,card,True,30,500,original_method,refunds.md
+41,Electronics,IN,upi,True,30,500,original_method,refunds.md
+42,Electronics,IN,cod,True,30,500,bank_transfer,refunds.md
